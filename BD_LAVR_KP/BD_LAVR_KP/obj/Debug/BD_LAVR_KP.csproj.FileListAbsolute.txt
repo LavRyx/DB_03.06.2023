@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\bin\Debug\BD_LAVR_KP.exe.config
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\bin\Debug\BD_LAVR_KP.exe
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\bin\Debug\BD_LAVR_KP.pdb
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.Properties.Resources.resources
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.exe
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.pdb
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.Template.resources
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.GUI.Forms.LoginForm.resources
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.GUI.Forms.MainForm.resources
+C:\Users\user\Desktop\БД\BD_LAVR_KP\BD_LAVR_KP\obj\Debug\BD_LAVR_KP.GUI.Forms.Info.resources
